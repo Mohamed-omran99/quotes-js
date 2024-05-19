@@ -1,0 +1,19 @@
+.quote h1 {
+    font-size: 75px;
+
+}
+.quote p {
+    font-size: 45px;
+}
+
+.quote button {
+    background-color: blue;
+    padding: 50px 70px;
+    color: white;
+}
+.quote button:hover {
+    background-color: green;
+}
+.quote {
+    text-align: center;
+}
